@@ -18,22 +18,23 @@ bio: My research interests include xxx.
 
 # Interests to show in About widget
 interests:
-  - Machine learning and deep learning-based image denoise, reconstruction and segmentation; deep learning based generative model for image synthesis.
-  - Fast MRI, MRI reconstruction and diffusion tensor cardiac MR.
-  - MRI sampling pattern optimization and coil sensitivity optimization.
+  - Deep Learning
+  - Computer Vision
+  - Medical Imaging
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph. D. Student in Synergistic Physics and Data Driven fast MRI
+      institution: Department of Bioengineering, Imperial College London
+      year: 2021.10-Present
+    - course: Visiting Ph.D. Student in Graphs and Transformers for Medical Image Analysis
+      institution: Department of Applied Mathematics and Theoretical Physics, University of Cambridge
+      year: 2022.12-2023.04
+    - course: BSc in Optoelectronics Information Science and Engineering
+      institution: School of Optics and Photonics, Beijing Institute of Technology
+      year: 2017.09-2021.06
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

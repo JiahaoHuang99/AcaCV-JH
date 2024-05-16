@@ -65,13 +65,13 @@ sections:
         - title: Visiting Student
           company: Department of Applied Mathematics and Theoretical Physics, University of Cambridge
           company_url: https://www.cam.ac.uk/
-          company_logo: Cam
+          # company_logo: Cam
           location: Cambridge
           date_start: '2022-12'
           date_end: '2023-04'
           description: Graphs and Transformers for Medical Image Analysis
-    # design:
-    #   columns: '2'
+    design:
+      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.

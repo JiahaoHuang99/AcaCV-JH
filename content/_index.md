@@ -64,7 +64,7 @@ sections:
       items:
         - title: Visiting Student
           company: Department of Applied Mathematics and Theoretical Physics, University of Cambridge
-          company_url: https://www.cam.ac.uk/
+          company_url: 'https://www.cam.ac.uk/'
           # company_logo: Cam
           location: Cambridge
           date_start: '2022-12-01'

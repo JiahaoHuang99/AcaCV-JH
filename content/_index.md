@@ -69,8 +69,7 @@ sections:
           location: Cambridge
           date_start: '2022-12'
           date_end: '2023-04'
-          description: |2-
-              Graphs and Transformers for Medical Image Analysis
+          description: Graphs and Transformers for Medical Image Analysis
     design:
       columns: '2'
   # - block: accomplishments

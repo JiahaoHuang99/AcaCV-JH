@@ -78,7 +78,7 @@ sections:
         - title: Visiting Student
           company: University of Cambridge
           company_url: https://www.cam.ac.uk/
-          company_logo: Cam
+          # company_logo: Cam
           location: Cambridge
           date_start: '2022-12-01'
           date_end: '2023-04-01'

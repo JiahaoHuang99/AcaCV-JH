@@ -2,10 +2,6 @@
 # Display name
 title: Jiahao Huang
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -18,13 +14,13 @@ organizations:
     url: https://www.imperial.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include xxx.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine learning and deep learning-based image denoise, reconstruction and segmentation; deep learning based generative model for image synthesis.
+  - Fast MRI, MRI reconstruction and diffusion tensor cardiac MR.
+  - MRI sampling pattern optimization and coil sensitivity optimization.
 
 # Education to show in About widget
 education:

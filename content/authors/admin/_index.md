@@ -96,9 +96,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JiahaoHuang99
-    label: Follow me on Twitter
-    display:
-      header: true
+    # label: Follow me on Twitter
+    # display:
+    #   header: true
   - icon: google-scholar # Alternatively, use `graduation-cap` icon from `fas` icon pack
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=ap-tq8cAAAAJ
